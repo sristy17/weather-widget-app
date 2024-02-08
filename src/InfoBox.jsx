@@ -41,3 +41,4 @@ export default function InfoBox({info}){
         </div>
     )
 }
+
