@@ -1,4 +1,4 @@
-<h1 align='center'><b>Weather App</b></h1>
+<h1 align='center'><b>Weather Widget App</b></h1>
 
 <h3 align='center'>Tech Stack Used 🎮</h3>
 
