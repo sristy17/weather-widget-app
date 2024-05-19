@@ -56,7 +56,7 @@ http://localhost:5173
 <img src='./Screenshot 2024-02-25 090242.png'>
 <img src='./Screenshot 2024-02-25 085357.png'>
 
-![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
+
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
