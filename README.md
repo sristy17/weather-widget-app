@@ -50,11 +50,6 @@ npm run dev
 
 http://localhost:5173
 
-## ⚡ Screenshot📸
-<img src='./Screenshot 2024-02-25 085119.png'>
-<img src='./Screenshot 2024-02-25 085201.png'>
-<img src='./Screenshot 2024-02-25 090242.png'>
-<img src='./Screenshot 2024-02-25 085357.png'>
 
 
 
